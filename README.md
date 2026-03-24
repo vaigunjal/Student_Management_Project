@@ -21,8 +21,7 @@ This project is a Spring Boot REST API for managing student records with authent
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd student-record
+https://github.com/vaigunjal/Student_Management_Project.git
 ```
 
 ### 2. Configure Database
